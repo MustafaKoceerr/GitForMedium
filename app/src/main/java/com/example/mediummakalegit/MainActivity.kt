@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("1. commit")
+        println("2. commit")
     }
 }
