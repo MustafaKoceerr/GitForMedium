@@ -28,5 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Arkadaşımızın buraya bir şeyler eklediğini varsayalım.")
         println("Biz de buraya bir şeyler ekledik.")
+
+        println("newBranch'te bir takım geliştirmeler yaptım.")
     }
 }
