@@ -20,5 +20,8 @@ class MainActivity : AppCompatActivity() {
         println("1. commit")
         println("2. commit")
         println("3. commit")
+
+        println("Stash örnek1")
+        println("Stash örnek2")
     }
 }
