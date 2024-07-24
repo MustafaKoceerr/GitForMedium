@@ -23,5 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Stash örnek1")
         println("Stash örnek2")
+
+        println("Bu satir dev branch'inde yazildi ve birazdan main'e merge edilecek")
     }
 }
